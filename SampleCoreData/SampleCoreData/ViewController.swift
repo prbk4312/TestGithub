@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         // test comment inside view controller
         // test changes done for Dev_Temp branch
+        // test change done to test main branch with rebase option
     }
 
     override func didReceiveMemoryWarning() {
