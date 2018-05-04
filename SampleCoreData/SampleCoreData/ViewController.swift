@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         // test comment inside view controller
-        // test comment inside temp banch to see the difference in the branch
+        // test changes done for Dev_Temp branch
     }
 
     override func didReceiveMemoryWarning() {
