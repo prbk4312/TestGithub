@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         // test comment inside view controller
         // test changes done for Dev_Temp branch
         // test change done to test main branch with rebase option
+        // test for git stash.
     }
 
     override func didReceiveMemoryWarning() {
